@@ -12,4 +12,4 @@ Este repositório tem como objetivo, trazer um pouco do conteudo que eu absorvi 
 - Entramos mais afundo sobre a ferramenta do Microsoft Azure.
 - Aprendemos um pouco sobre as caracteristicas da nuvem, Confiabilidade, Escalabilidade, Elasticidade entre outras
 - Aprendemos um pouco sobre as SLAs de indisponbilidade dos serviços, vimos uma tabela de porcentagem de disponibilidade e o tempo da SLA
-- E demos uma entrodução sobre Maquinas virtuais no Azure  
+- E demos uma itrodução sobre Maquinas virtuais no Azure  
