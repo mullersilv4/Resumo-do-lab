@@ -8,3 +8,8 @@ Este repositório tem como objetivo, trazer um pouco do conteudo que eu absorvi 
 - Aprendemos a utilizar ferramentes de versionamento como o Git/GitHub , para desenvolver nossos laboratorios e compartilhar com outros usuarios nossos desafios 
 - Tivemos tambem aula para nos ensentivar a criar e alimentar nossos perfis, no github na dio, linkedin, e assim compartilhar ideias e desenvolvimento com outras pessoas, e não deixar de fazer os Labs 
 - E por fim até aqui conhecemos a interfaec o Microsoft Azure, e algumas opção de ferramentas que tem disponivel dentro do serviço 
+  #Sobre as aulas posteriores
+- Entramos mais afundo sobre a ferramenta do Microsoft Azure.
+- Aprendemos um pouco sobre as caracteristicas da nuvem, Confiabilidade, Escalabilidade, Elasticidade entre outras
+- Aprendemos um pouco sobre as SLAs de indisponbilidade dos serviços, vimos uma tabela de porcentagem de disponibilidade e o tempo da SLA
+- E demos uma entrodução sobre Maquinas virtuais no Azure  
