@@ -13,3 +13,6 @@ Este repositório tem como objetivo, trazer um pouco do conteudo que eu absorvi 
 - Aprendemos um pouco sobre as caracteristicas da nuvem, Confiabilidade, Escalabilidade, Elasticidade entre outras
 - Aprendemos um pouco sobre as SLAs de indisponbilidade dos serviços, vimos uma tabela de porcentagem de disponibilidade e o tempo da SLA
 - E demos uma itrodução sobre Maquinas virtuais no Azure  
+#Atualizando novamente o Resumo das Aulas
+- Nas aulas posterios a ultima atualização aqui, foi falado um pouco sobre o tipo de responsabilidade compartilhada , citando as Iaas, Paas, Saas, explicando como funciona cada nivel dessas propriedades e como funciona a responsabilidade que é devida aos usuarios(clientes) e aos provedores
+- 
