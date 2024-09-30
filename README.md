@@ -15,4 +15,5 @@ Este repositório tem como objetivo, trazer um pouco do conteudo que eu absorvi 
 - E demos uma itrodução sobre Maquinas virtuais no Azure  
 #Atualizando novamente o Resumo das Aulas
 - Nas aulas posterios a ultima atualização aqui, foi falado um pouco sobre o tipo de responsabilidade compartilhada , citando as Iaas, Paas, Saas, explicando como funciona cada nivel dessas propriedades e como funciona a responsabilidade que é devida aos usuarios(clientes) e aos provedores
-- 
+  # Atualização das Aulas
+- Essa semana pude aprender um pouco mais sobre as maquinas virtuas e como cria-las dentro do Microsoft Azure, tambem falamos sobre a area de trabalho virtual do Azure, assim como os containers, serviços de kubernetes as azures functions, serviços de  aplicativos, um pouco sobre os serviços de rede e ainda o gateway de VPN, explorando suas definiçoes, ainda fizemos um laboratório criando uma VM de forma pratica no Microsoft Azure
